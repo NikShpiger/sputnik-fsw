@@ -1,0 +1,8 @@
+cargo:rustc-check-cfg=cfg(armv6m)
+cargo:rustc-check-cfg=cfg(armv7m)
+cargo:rustc-check-cfg=cfg(armv8m)
+cargo:rustc-check-cfg=cfg(cortex_m)
+cargo:rustc-check-cfg=cfg(has_fpu)
+cargo:rustc-link-search=C:\Users\shpig\sputnik\target\release\build\cortex-m-rt-3e673474756740d6\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

@@ -1,0 +1,15 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\release\deps\embassy_time-86934044a2c40cbd.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\fmt.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\delay.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\duration.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\instant.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\timer.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\../README.md
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\release\deps\libembassy_time-86934044a2c40cbd.rlib: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\fmt.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\delay.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\duration.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\instant.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\timer.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\../README.md
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\release\deps\libembassy_time-86934044a2c40cbd.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\fmt.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\delay.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\duration.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\instant.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\timer.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\../README.md
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\fmt.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\delay.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\duration.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\instant.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\timer.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-0.5.1\src\../README.md:
+
+# env-dep:DEFMT_LOG=debug

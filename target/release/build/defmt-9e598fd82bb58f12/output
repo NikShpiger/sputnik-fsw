@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\shpig\sputnik\target\release\build\defmt-9e598fd82bb58f12\out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)
