@@ -49,3 +49,15 @@ path = "examples/lora_send.rs"
 [[example]]
 name = "lora_receive"
 path = "examples/lora_receive.rs"
+
+[[bin]]
+name = "sputnik"
+path = "src/bin/sputnik.rs"
+test = false
+bench = false
+
+[[bin]]
+name = "ground"
+path = "src/bin/ground.rs"
+test = false
+bench = false

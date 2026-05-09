@@ -1,0 +1,9 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\embedded_io_async-1020ec030fcd5a3d.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\mod.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_mut.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_ref.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\../README.md
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libembedded_io_async-1020ec030fcd5a3d.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\mod.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_mut.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_ref.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\../README.md
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\mod.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_mut.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\impls\slice_ref.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-async-0.7.0\src\../README.md:

@@ -1,0 +1,11 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\sdio_host-e024023b8466cad3.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc.rs
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libsdio_host-e024023b8466cad3.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc_cmd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc.rs
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common_cmd.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd_cmd.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc_cmd.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\common.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\sd.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-host-0.9.0\src\emmc.rs:

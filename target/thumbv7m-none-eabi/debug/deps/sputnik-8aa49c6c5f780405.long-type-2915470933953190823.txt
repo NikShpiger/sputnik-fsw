@@ -1,0 +1,1 @@
+LoRa<Sx127x<ExclusiveDevice<embassy_stm32::spi::Spi<'_, embassy_stm32::mode::Async, embassy_stm32::spi::mode::Master>, Output<'_>, Delay>, GenericSx127xInterfaceVariant<Output<'_>, ExtiInput<'_, embassy_stm32::mode::Async>>, Sx1276>, Delay>

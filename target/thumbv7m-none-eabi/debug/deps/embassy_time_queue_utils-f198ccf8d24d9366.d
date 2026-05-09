@@ -1,0 +1,8 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\embassy_time_queue_utils-f198ccf8d24d9366.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_generic.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_integrated.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\../README.md
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libembassy_time_queue_utils-f198ccf8d24d9366.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_generic.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_integrated.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\../README.md
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_generic.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\queue_integrated.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-time-queue-utils-0.3.2\src\../README.md:

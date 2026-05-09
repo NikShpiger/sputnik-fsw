@@ -1,0 +1,12 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\cordyceps-479c3dda6bc6f433.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\util.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list\cursor.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\sorted_list.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\stack.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\mpsc_queue.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\loom.rs
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libcordyceps-479c3dda6bc6f433.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\util.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list\cursor.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\sorted_list.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\stack.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\mpsc_queue.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\loom.rs
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\util.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\list\cursor.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\sorted_list.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\stack.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\mpsc_queue.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cordyceps-0.3.4\src\loom.rs:

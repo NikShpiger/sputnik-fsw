@@ -1,0 +1,11 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\generic_array-f65275f685ba05e4.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\hex.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\impls.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\arr.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\functional.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\iter.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\sequence.rs
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libgeneric_array-f65275f685ba05e4.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\hex.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\impls.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\arr.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\functional.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\iter.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\sequence.rs
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\hex.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\impls.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\arr.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\functional.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\iter.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\generic-array-0.14.9\src\sequence.rs:

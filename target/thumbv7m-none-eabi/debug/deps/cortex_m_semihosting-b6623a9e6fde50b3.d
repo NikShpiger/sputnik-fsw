@@ -1,0 +1,10 @@
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\cortex_m_semihosting-b6623a9e6fde50b3.d: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\macros.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\debug.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\export.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\hio.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\nr.rs
+
+C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\deps\libcortex_m_semihosting-b6623a9e6fde50b3.rmeta: C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\lib.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\macros.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\debug.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\export.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\hio.rs C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\nr.rs
+
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\lib.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\macros.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\debug.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\export.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\hio.rs:
+C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cortex-m-semihosting-0.5.0\src\nr.rs:
