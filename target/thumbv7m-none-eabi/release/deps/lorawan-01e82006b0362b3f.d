@@ -15,4 +15,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-0.9.
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-0.9.0\src\securityhelpers.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-0.9.0\src\../README.md:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

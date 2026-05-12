@@ -19,4 +19,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lora-phy-3.0
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lora-phy-3.0.1\src\sx127x\sx1276.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lora-phy-3.0.1\src\../README.md:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

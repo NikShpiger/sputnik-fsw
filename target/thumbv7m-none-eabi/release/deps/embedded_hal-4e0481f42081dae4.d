@@ -14,4 +14,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-hal
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-hal-1.0.0\src\i2c-shared-bus.svg:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-hal-1.0.0\src\spi-shared-bus.svg:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

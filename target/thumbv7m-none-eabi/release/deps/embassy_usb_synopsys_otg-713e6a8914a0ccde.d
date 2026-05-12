@@ -9,4 +9,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-usb-
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-usb-synopsys-otg-0.3.3\src\otg_v1.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-usb-synopsys-otg-0.3.3\src\../README.md:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

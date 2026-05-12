@@ -31,5 +31,5 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stm32-metapa
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stm32-metapac-21.0.0\src\chips/stm32f103c8\..\..\peripherals\usbram_16x1_512.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\stm32-metapac-21.0.0\src\chips/stm32f103c8\..\..\peripherals\wwdg_v1.rs:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info
 # env-dep:STM32_METAPAC_PAC_PATH=chips/stm32f103c8/pac.rs

@@ -32,4 +32,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-devi
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-device-0.12.2\src\log.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lorawan-device-0.12.2\src\../README.md:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

@@ -20,4 +20,4 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-embe
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-embedded-hal-0.6.0\src\shared_bus\blocking\spi.rs:
 C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-embedded-hal-0.6.0\src\../README.md:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info

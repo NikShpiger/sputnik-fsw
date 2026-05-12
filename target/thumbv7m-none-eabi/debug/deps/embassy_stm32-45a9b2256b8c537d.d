@@ -60,5 +60,5 @@ C:\Users\shpig\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-stm3
 C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\build\embassy-stm32-d7a3b976810eb2dd\out/_macros.rs:
 C:\Users\shpig\sputnik\target\thumbv7m-none-eabi\debug\build\embassy-stm32-d7a3b976810eb2dd\out/_generated.rs:
 
-# env-dep:DEFMT_LOG=debug
+# env-dep:DEFMT_LOG=info
 # env-dep:OUT_DIR=C:\\Users\\shpig\\sputnik\\target\\thumbv7m-none-eabi\\debug\\build\\embassy-stm32-d7a3b976810eb2dd\\out
